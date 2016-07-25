@@ -1,8 +1,8 @@
 ---
 title: Les fonctions Map et Filter
 description: >-
-  Jouons avec les tableaux et les objets pour manipuler des données en bonne
-  conscience.
+  Map permet d appliquer une fonction pour modifier les données d un tableau et
+  Filter permet de filtrer les données d un tableau
 image_url: >-
   https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/tableaux-objets.jpg?raw=true
 published: true

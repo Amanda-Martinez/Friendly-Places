@@ -11,6 +11,7 @@ Le local storage permet de stocker rapidement des données en cache, sans faire 
 L'un des avantages est de retrouver des données immédiatement à la reconnexion ou de les mémoriser pour éviter leur perte en fermant le navigateur.
 
 ## Comment stocker avec localStorage ?
+via un duo clé/valeur.
 On crée une clé et on lui attribue une valeur via la méthode setItem.
 
 Par exemple:

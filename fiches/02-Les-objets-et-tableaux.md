@@ -1,8 +1,7 @@
 ---
 title: Les objets et les tableaux
 description: Jouons avec les tableaux et les objets pour manipuler des données.
-image_url: >-
-  https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/tableaux-objets.jpg?raw=true
+image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/tableaux-objets.jpg?raw=true
 published: true
 ---
 # Les tableaux et les objets

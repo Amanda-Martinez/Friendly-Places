@@ -16,4 +16,8 @@ class World {
 	collection() {
 		return JSON.parse(localStorage.getItem('places')) || []
 	}
+	remove(name) {
+		const places = this.collection().filter( place => place.name !== name )
+		localStorage.setItem('places', JSON.stringify(places))
+	}
 }

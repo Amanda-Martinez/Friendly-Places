@@ -21,9 +21,12 @@ Définition des syntaxes :
 - +"s" : exemple de fonction appliquée à l'ensemble du tableau (cela peut être n'importe quelle fonction : mathématique, concaténation, affichage, etc.)
 
 Exemple de fonction appliquée : 
-const fruts = ["fraise", "orange", "kiwi"]
+```javascript
+>> const fruts = ["fraise", "orange", "kiwi"]
+```
 fruts = le nom du tableau et à l’intérieur des crochets on retrouve les éléments du tableau
 
+```javascript
 fruts.map(x => x+"s")
 >>["fraises", "oranges", "kiwis"]
 

@@ -1,7 +1,9 @@
 ---
 title: Les objets et les tableaux
 description: Jouons avec les tableaux et les objets pour manipuler des données.
-image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/tableaux-objets.jpg?raw=true
+image_url: >-
+  https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/tableaux-objets.jpg?raw=true
+published: true
 ---
 # Les tableaux et les objets
 
@@ -35,8 +37,8 @@ Pour ajouter un élément à un tableau on utilise la méthode *push* :
 Pour retirer le dernier élément d’un tableau on utilise la méthode *pop* :
 ```javascript
 >> const fruits = ['mangue', 'cerise', 'artichaut']
->> odd.pop()
->> odd
+>> fruits.pop()
+>> fruits
 ```
 
 ## Les objets
@@ -62,4 +64,3 @@ Vous pouvez facilement ajouter une propriété à un objet :
 >> erik.status = 'occupé'
 >> erik
 ```
-

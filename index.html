@@ -19,8 +19,9 @@
 				const world = new World()
 				world.findCity(query).map(place => document.write(
 					`<li>
-						 <a href="https://www.google.com/maps/@${place.location.lt},${place.location.lg},17z">${place.name}</a> 
-						 - ${place.city}
+						 <a href="https://www.google.com/maps/@${place.location.lt},${place.location.lg},17z">
+						 	${place.name} - ${place.city}
+						 </a>
 					 </li>`
 				))
 			</script>

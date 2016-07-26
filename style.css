@@ -1,3 +1,35 @@
 body {
 	background-color: white;	
+	font-family: arial;
+
+}
+
+ul {
+	list-style: none;
+	margin: 2em;
+	width: 20em;
+	border: 1px solid #ccc;
+	padding: 0;
+}
+
+li {
+	padding: .8em;
+	border-bottom: 1px solid #ccc;
+}
+
+li:last-child {
+	border-bottom: none;
+}
+
+li:hover {
+	background-color: #eee;
+	cursor: hand;
+}
+
+li a {
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+	display: block;
+	width: 100%;
 }

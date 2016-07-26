@@ -1,12 +1,14 @@
 ---
 title: Les bases de JavaScript
-description: Petite présentation des variables, de la console et des opérateurs.
-image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/variables.jpg?raw=true
+description: 'Petite présentation des variables, de la console et des opérateurs.'
+image_url: >-
+  https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/variables.jpg?raw=true
+published: true
 ---
 # Les bases de JavaScript
 
 ## Console
-La console de votre navigateur permet de dialoguer rapidement en JavaScript. Sur Firefox, vous pouvez accéder à cet outil en sélectionnant l’option *console web* dans le menu *outils*
+La console de votre navigateur permet de dialoguer rapidement en JavaScript. Sur Firefox, vous pouvez accéder à cet outil en sélectionnant l’option *console web* dans le menu *outils* et sur Chrome, vous pouvez accéder à cet outil en ouvrant l'inspecteur web dans le menu Afficher > Options pour les développeurs > Outils de développement, puis sélectionner la tab "Console" (ou simplement en utilisant le raccourci pomme+maj+c).
 
 *=> outils => développement web => console web*
 

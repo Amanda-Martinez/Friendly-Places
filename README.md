@@ -12,7 +12,7 @@ L'équipe Javascript avec les Pieds découvre le langage Javascript, ainsi que l
 * Amanda Martinez
 * Bénédicte (béné, je n'ai pas ton nom !)
 * Sabine Safi
-* Aurélie Le Guillou
+* Aurélie Le Guillou @okplaisir https://www.facebook.com/adcoate
 * Antoine Seilles
 * Stéphane Langlois
 
@@ -32,7 +32,6 @@ Dans la console :
 > world.new({name: 'Fairview', city: 'Montpellier', location: {lt: '43.6117398', lg: '3.8767571'}})
 ```
 
-<<<<<<< HEAD
 ## Les fiches existances
 * Les Bases du Javascript
 * Les Objects et les Tableaux
@@ -40,22 +39,14 @@ Dans la console :
 * Les fonctions Map et filter
 
 
-## Les fiches à créer ou finaliser et insérer
-=======
-## À faire
-
-### Les fiches à insérer
->>>>>>> origin/master
+## Les fiches à insérer
 * Github : pull request & synchronisations
 * Template
-<<<<<<< HEAD
 * Les Classes
-=======
-* Classes
+
 
 ### En vrac
-* Lister la team dans le readme
-* Prendre un nom de domaine provisoire et faire pointer github dessus
+* Ajouter les comptes Twitter et Facebook à la Team
 * Faire un backlog - (une liste des fonctionnalités)
 * Choisir une licence
 * Enrichir les styles css
@@ -75,4 +66,4 @@ Dans la console :
 ### US#4 - Consulter les informations d'une place
 
 ### US#5 - Voir les images d'une place
->>>>>>> origin/master
+

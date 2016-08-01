@@ -31,6 +31,7 @@ Dans la console :
 > world.new({name: 'Fairview', city: 'Montpellier', location: {lt: '43.6117398', lg: '3.8767571'}})
 ```
 
+<<<<<<< HEAD
 ## Les fiches existances
 * Les Bases du Javascript
 * Les Objects et les Tableaux
@@ -39,6 +40,38 @@ Dans la console :
 
 
 ## Les fiches à créer ou finaliser et insérer
+=======
+## À faire
+
+### Les fiches à insérer
+>>>>>>> origin/master
 * Github : pull request & synchronisations
 * Template
+<<<<<<< HEAD
 * Les Classes
+=======
+* Classes
+
+### En vrac
+* Lister la team dans le readme
+* Prendre un nom de domaine provisoire et faire pointer github dessus
+* Faire un backlog - (une liste des fonctionnalités)
+* Choisir une licence
+* Enrichir les styles css
+* Prendre des photos de nos ateliers
+* Rédiger la vision
+
+## Backlog
+
+### US#1 - Consulter des pages d'information
+- doit gérer les pages : l'équipe, mentions légales, présentation, guide
+
+### US#2 - Voir les villes à partir des places enregistrées
+- doit n'afficher que les villes concernées
+
+### US#3 - Consulter les places sur une carte
+
+### US#4 - Consulter les informations d'une place
+
+### US#5 - Voir les images d'une place
+>>>>>>> origin/master

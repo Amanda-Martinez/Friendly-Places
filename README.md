@@ -86,23 +86,27 @@ Sujets :
 
 ### Session #3 - Remote
 Sujets :
+* terminal : ls - cd - mkdir - cp - mv - git
+* css : bases
 * serveur : index.html - localhost
 * html : Dom
-* css : bases
-* JavaScript : querySelector - this - if
-* esLint
+* JavaScript : querySelector - createElement - addEventListener - innerHTML
 * agile : backlog - us
-* terminal
+
+### Session #4 - Remote
 * html : form
+* esLint
+* javascript : this - if
 
 ### En vrac
 [ ] - Lister la team dans le readme
-[ ] - Prendre un nom de domaine provisoire et faire pointer github dessus
 [ ] - Faire un backlog - (une liste des fonctionnalités)
 [ ] - Choisir une licence
 [ ] - Enrichir les styles css
 [ ] - Prendre des photos de nos ateliers
 [ ] - Rédiger la vision
+[ ] - Workflow Github
+[x] - Prendre un nom de domaine provisoire et faire pointer github dessus
 =======
 
 ## Backlog

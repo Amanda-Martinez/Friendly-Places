@@ -4,8 +4,10 @@
 		<title>Liste des Friendly Places</title>
 		<meta descr="Découvrez la liste des endroits où travailler.">
 		<link rel="stylesheet" type="text/css" href="style.css">
-		<script type="text/javascript" src="init.js"></script>
+		<script type="text/javascript" src="generate.js"></script>
 		<script type="text/javascript" src="world.js"></script>
+		<script type="text/javascript" src="dom.js"></script>
+		<script type="text/javascript" src="init.js"></script>
 	</head>
 	<body>
 		<h1>Liste des Friendly Places</h1>
@@ -13,18 +15,7 @@
 		<a href="?q=Bordeaux">Bordeaux</a>
 		<a href="?q=Montpellier">Montpellier</a>
 		<a href="?q=Lyon">Lyon</a>
-		<ul>
-			<script type="text/javascript">
-				const query = document.location.search.split('?q=')[1]
-				const world = new World()
-				world.findCity(query).map(place => document.write(
-					`<li>
-						 <a href="https://www.google.com/maps/@${place.location.lt},${place.location.lg},17z">
-						 	${place.name} - ${place.city}
-						 </a>
-					 </li>`
-				))
-			</script>
+		<ul id="places">
 		</ul>
 	</body>
 </html>

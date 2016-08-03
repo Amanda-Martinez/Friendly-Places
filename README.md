@@ -21,6 +21,7 @@ Le projet Friendly Places est créé dans le cadre d'une envie de formation au l
 L'équipe JALP découvre le langage Javascript, ainsi que les outils associés au projet Multibao (Github, Github Dekstop, Sublime Text) en développant ensemble le projet Friendly Places.  Cependant, l'objectif n'est pas nécessairement d'atteindre une maîtrise de niveau "professionnel" de JS, mais plutôt d'acquérir des bases, d'être capable de prototyper une application web, de maîtriser les concepts et les outils.
 
 # Participants actuels au projet Friendly-Places
+[Contributeurs](https://github.com/Amanda-Martinez/Friendly-Places/graphs/contributors)
 * Amanda Martinez - [gh](http://github.com/Amanda-Martinez)
 * Bénédicte Lambert - [gh](http://github.com/bndct-lmbrt)
 * Sabine Safi - [gh](http://github.com/sabinesafi)

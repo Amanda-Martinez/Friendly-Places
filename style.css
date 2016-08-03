@@ -1,7 +1,6 @@
 body {
-	background-color: white;	
+	background-color: white;
 	font-family: arial;
-
 }
 
 ul {
@@ -13,7 +12,7 @@ ul {
 }
 
 li {
-	padding: .8em;
+	padding: 1em;
 	border-bottom: 1px solid #ccc;
 }
 
@@ -23,13 +22,27 @@ li:last-child {
 
 li:hover {
 	background-color: #eee;
-	cursor: hand;
+	cursor: pointer;
+}
+
+li.selected {
+	background-color: #ccc;
+	cursor: pointer;
 }
 
 li a {
-	text-decoration: none;
 	margin: 0px;
 	padding: 0px;
+	margin-top: -10px;
 	display: block;
-	width: 100%;
+	text-decoration: none;
+	float: left;
+	width: 92%;
+}
+
+li a.remove {
+	padding-left: 3px;
+	width: 4%;
+	color: grey;
+	border: 1px solid #ccc;
 }

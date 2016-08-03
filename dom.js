@@ -12,7 +12,16 @@ const displayPlaces = (places) => {
     document.querySelector(`[data-place-id="${place.id}"]`)
       .addEventListener('click', () => {
         world.remove(place.id)
-        location.reload() 
+        location.reload()
       })
+  })
+}
+
+const displayCities = (cities) => {
+  cities.map(city => {
+    let li =  document.createElement('li')
+    li.setAttribute('data-city', city)
+    li.innerHTML = `<a href="?q=${city}">${city}</a>`
+    document.querySelector('#cities').appendChild(li)
   })
 }

@@ -22,7 +22,12 @@ li:last-child {
 
 li:hover {
 	background-color: #eee;
-	cursor: hand;
+	cursor: pointer;
+}
+
+li.selected {
+	background-color: #ccc;
+	cursor: pointer;
 }
 
 li a {

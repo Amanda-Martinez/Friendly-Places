@@ -97,8 +97,10 @@ Sujets :
 * html : form
 * esLint
 * javascript : this - if
+* tests unitaires
 
 ### En vrac
+[ ] - Ajouter des commentaires
 [ ] - Lister la team dans le readme
 [ ] - Faire un backlog - (une liste des fonctionnalités)
 [ ] - Choisir une licence

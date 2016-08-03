@@ -43,12 +43,20 @@ Dans la console :
 > mars.find('Fairview')
 ```
 
-### FINDCITY : Trouver des lieux correspondant à une ville
-On passe une ville (*city*) en paramètre, et la méthode *findCity()* renvoit une collection d'objets lieu qui ce situent dans la ville correspondante.
+### FINDBYCITY : Trouver des lieux correspondant à une ville
+On passe une ville (*city*) en paramètre, et la méthode *findByCity()* renvoit une collection d'objets lieu qui ce situent dans la ville correspondante.
 
 Dans la console :
 ``` javascript
-> mars.findCity('Montpellier')
+> mars.findByCity('Montpellier')
+```
+
+### FINDBYCITIES : Trouver les villes des lieux enregistrées
+La méthode renvoit un *array* des villes.
+
+Dans la console :
+``` javascript
+> mars.findByCities()
 ```
 
 ### COLLECTION : Récupérer tous les lieux

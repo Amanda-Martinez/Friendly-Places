@@ -1,4 +1,6 @@
-const displayPlaces = (places) => {
+const Dom = {}
+
+Dom.displayPlaces = (places) => {
   const uls = ''
   places.map(place => {
     let li =  document.createElement('li')
@@ -17,11 +19,17 @@ const displayPlaces = (places) => {
   })
 }
 
-const displayCities = (cities) => {
+Dom.displayCities = (cities) => {
   cities.map(city => {
     let li =  document.createElement('li')
     li.setAttribute('data-city', city)
     li.innerHTML = `<a href="?q=${city}">${city}</a>`
     document.querySelector('#cities').appendChild(li)
   })
+}
+
+Dom.selectCity = (cities, selectCity) => {
+  const city = (cities.indexOf(selectCity) === -1) ? "All" : selectCity
+  const li = document.querySelector(`[data-city="${city}"]`)
+  li.className = `${li.className} selected`.trim()
 }

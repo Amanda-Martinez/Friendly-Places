@@ -13,7 +13,7 @@ Sabine Safi
 Aurélie Le Guillou
 Antoine Seilles
 Stéphane Langlois
-=======
+
 Friendly Places est service permettant de trouver un endroit sympa pour s'installer quelques heures, afin de :
 * travailler en remote,
 * se réunir,
@@ -40,18 +40,16 @@ Dans la console :
 ```javascript
 > generatePlaces()
 ```
-
-<<<<<<< HEAD
 ## Les fiches
-[ ] - Github : pull request & synchronisations
-[ ] - Template
-[ ] - Glossaire - Bénédicte
-[x] - Les Bases du Javascript
-[x] - Les Objects et les Tableaux
-[x] - Local storage
-[x] - Les fonctions Map et filter
-[x] - Les classes
-[x] - L'API World
+- [ ] Github : pull request & synchronisations
+- [ ] Template
+- [ ] Glossaire - Bénédicte
+- [x] Les Bases du Javascript
+- [x] Les Objects et les Tableaux
+- [x] Local storage
+- [x] Les fonctions Map et filter
+- [x]-  Les classes
+- [x] L'API World
 
 ## Sessions
 
@@ -100,16 +98,15 @@ Sujets :
 * tests unitaires
 
 ### En vrac
-[ ] - Ajouter des commentaires
-[ ] - Lister la team dans le readme
-[ ] - Faire un backlog - (une liste des fonctionnalités)
-[ ] - Choisir une licence
-[ ] - Enrichir les styles css
-[ ] - Prendre des photos de nos ateliers
-[ ] - Rédiger la vision
-[ ] - Workflow Github
-[x] - Prendre un nom de domaine provisoire et faire pointer github dessus
-=======
+- [ ] Ajouter des commentaires
+- [ ] Lister la team dans le readme
+- [ ] Faire un backlog - (une liste des fonctionnalités)
+- [ ] Choisir une licence
+- [ ] Enrichir les styles css
+- [ ] Prendre des photos de nos ateliers
+- [ ] Rédiger la vision
+- [ ] Workflow Github
+- [x] Prendre un nom de domaine provisoire et faire pointer github dessus
 
 ## Backlog
 
@@ -124,4 +121,3 @@ Sujets :
 ### US#4 - Consulter les informations d'une place
 
 ### US#5 - Voir les images d'une place
-=======

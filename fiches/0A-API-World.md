@@ -21,6 +21,7 @@ On passe le lieu en paramètre de la méthode *new*.
 Exemple de lieu :
 ``` javascript
 {
+  id: 1,
   name: 'Fairview',
   city: 'Montpellier',
   location: {
@@ -32,7 +33,7 @@ Exemple de lieu :
 
 Tester dans la console :
 ``` javascript
-> mars.new({name: 'Fairview', city: 'Montpellier', location: {lt: '43.6117398', lg: '3.8767571'}})
+> mars.new({id, 1, name: 'Fairview', city: 'Montpellier', location: {lt: '43.6117398', lg: '3.8767571'}})
 ```
 
 ### FIND : Trouver des informations sur un lieu existant

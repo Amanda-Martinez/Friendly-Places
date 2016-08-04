@@ -9,7 +9,7 @@ class World {
 		return this.collection().filter(place => place.city === city)
 	}
 	findCities() {
-		return [...new Set(this.collection().map(place => place.city))]
+		return new Set(this.collection().map(place => place.city))
 	}
 	new(place) {
 		const places = this.collection()

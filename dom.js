@@ -20,7 +20,7 @@ Dom.displayPlaces = (places) => {
 }
 
 Dom.displayCities = (cities) => {
-  cities.map(city => {
+  cities.forEach(city => {
     let li =  document.createElement('li')
     li.setAttribute('data-city', city)
     li.innerHTML = `<a href="?q=${city}">${city}</a>`
@@ -29,7 +29,7 @@ Dom.displayCities = (cities) => {
 }
 
 Dom.selectCity = (cities, selectCity) => {
-  const city = (cities.indexOf(selectCity) === -1) ? "All" : selectCity
+  const city = (! cities.has(selectCity)) ? "All" : selectCity
   const li = document.querySelector(`[data-city="${city}"]`)
   li.className = `${li.className} selected`.trim()
 }

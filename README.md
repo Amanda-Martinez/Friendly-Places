@@ -89,7 +89,7 @@ Sujets :
 ### Session #4 - Remote
 * html : form
 * esLint
-* javascript : this - if
+* javascript : this - if - ternaire
 * tests unitaires
 
 # En vrac
@@ -107,9 +107,6 @@ Sujets :
 
 ## US#1 - Consulter des pages d'information
 - doit gérer les pages : l'équipe, mentions légales, présentation, guide
-
-## US#2 - Voir les villes à partir des places enregistrées
-- doit n'afficher que les villes concernées
 
 ## US#3 - Consulter les places sur une carte
 

@@ -1,7 +1,7 @@
 ---
 title: L'API World
 description: Description du comportement des méthodes de la classe World.
-image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/variables.jpg?raw=true
+image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/hello-world.jpg?raw=true
 ---
 
 ## API World

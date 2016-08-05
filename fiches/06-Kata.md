@@ -1,7 +1,7 @@
 ---
 title: Katas
 description: Quelques petits exercices pour se faire la main
-image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/variables.jpg?raw=true
+image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/kata.jpg?raw=true
 ---
 # Katas
 

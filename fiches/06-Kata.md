@@ -55,10 +55,10 @@ Dans un dossier créer trois fichiers :
 - Par exemple : “Ready to Code!”
 
 * Notions révisées :
-* Balises *<html><head><title><body><ul><li>*
-* *<meta charset="utf-8">*
-* *<link rel="stylesheet" type="text/css" href="name">*
-* *<script type="text/javascript" src="name">*
+* Balises *html-head-title-body-ul-li*
+* *meta charset="utf-8"*
+* *link rel="stylesheet" type="text/css" href="name"*
+* *script type="text/javascript" src="name"*
 * css : *body* {}
 * css : *font-family*:
 * css : *background-color:*
@@ -90,5 +90,5 @@ const towns = [
 * Notions révisées :
 * *.map()*
 * *document.write()*
-* *<ul><li>*
+* *ul-li*
 * *objet.propriété* - ex: *city.town*

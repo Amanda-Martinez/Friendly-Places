@@ -26,10 +26,10 @@ const panda = {
 4- ajouter la propriété *duration* pour préciser l'espérance de vie de chaque animal.
 
 * Notions révisées :
-- *console.log*()
-- *const*
-- {}
-- *objet.propriété* - ex. *panda.food*
+* *console.log*()
+* *const*
+* {}
+* *objet.propriété* - ex. *panda.food*
 
 
 ## Créer un environnement pour coder en JavaScript
@@ -55,14 +55,14 @@ Dans un dossier créer trois fichiers :
 - Par exemple : “Ready to Code!”
 
 * Notions révisées :
-- Balises *<html><head><title><body><ul><li>*
-- *<meta charset="utf-8">*
-- *<link rel="stylesheet" type="text/css" href="name">*
-- *<script type="text/javascript" src="name">*
-- css : *body* {}
-- css : *font-family*:
-- css : *background-color:*
-- *console.log*()
+* Balises *<html><head><title><body><ul><li>*
+* *<meta charset="utf-8">*
+* *<link rel="stylesheet" type="text/css" href="name">*
+* *<script type="text/javascript" src="name">*
+* css : *body* {}
+* css : *font-family*:
+* css : *background-color:*
+* *console.log*()
 
 ## Parcourir un dictionnaire
 - Objectif : Apprendre à manipuler des données en utilisant un *dictionnaire*.
@@ -88,7 +88,7 @@ const towns = [
 ```
 
 * Notions révisées :
-- *.map()*
-- *document.write()*
-- *<ul><li>*
-- *objet.propriété* - ex: *city.town*
+* *.map()*
+* *document.write()*
+* *<ul><li>*
+* *objet.propriété* - ex: *city.town*

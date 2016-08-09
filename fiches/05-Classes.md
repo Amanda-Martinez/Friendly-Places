@@ -12,6 +12,7 @@ Une classe définit les caractéristique d'un objet.
 
 ##  Comment créer une classe ? 
 
+
 Pour déclarer une classe, on utilise le mot clé 'class' suivi par le nom de la classe que l'on déclare.
 
 Par exemple :

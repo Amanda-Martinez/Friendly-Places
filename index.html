@@ -3,6 +3,8 @@
 	  <meta charset="utf-8">
 		<title>Liste des Friendly Places</title>
 		<meta descr="Découvrez la liste des endroits où travailler.">
+		<link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
+		<script src="https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<script type="text/javascript" src="generate.js"></script>
 		<script type="text/javascript" src="world.js"></script>
@@ -11,6 +13,7 @@
 	</head>
 	<body>
 		<header><h1>Liste des Friendly Places</h1></header>
+		<div id="map"></div>
 		<ul id="cities">
 			<li data-city="All"><a href="index.html">Tous</a></li>
 			<!-- dynamical data -->

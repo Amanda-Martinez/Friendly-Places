@@ -38,6 +38,7 @@ Dans la console :
 # Les fiches
 - [ ] Github : pull request & synchronisations
 - [ ] Template
+- [ ] L'API World
 - [ ] Glossaire - Bénédicte
 - [x] Les Bases du Javascript
 - [x] Les Objects et les Tableaux

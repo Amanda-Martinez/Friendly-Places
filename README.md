@@ -36,6 +36,7 @@ Dans la console :
 ```
 
 # Les fiches
+- [ ] DOM
 - [ ] Github : pull request & synchronisations
 - [ ] Template
 - [ ] L'API World

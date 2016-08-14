@@ -19,6 +19,7 @@ image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches
 * *paramètre de fonction*: ?
 * *propriété*: fonction 
 * *variable*: nom associé à un type de donnée, une chaîne de caractères ou une valeur numérique, auquel on peut attribuer une valeur
+* *concaténation*: assembler deux chaînes de caractères par exemple 'Bonjour' 'Erik' va devenir 'Bonjour Erik'
 
 
 

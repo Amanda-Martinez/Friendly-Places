@@ -1,7 +1,10 @@
 ---
-title: Le templating 
-description: Le templating permet de faire une requête qui permet d'aller chercher des données dynamiquement en générant du html 
-image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/templating.jpg?raw=true
+title: Le templating
+description: >-
+  Le templating permet de faire une requête qui permet d'aller chercher des
+  données dynamiquement en générant du html
+image_url: >-
+  https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/templating.jpg?raw=true
 published: true
 ---
 # Le templating
@@ -15,11 +18,11 @@ Vous pouvez utiliser le templating afin d'aller chercher des données externes q
 ## La syntaxe 
 
 Exemple de syntaxe : 
-``` `<a href="?q=${city}">`
+``` 
+`<a href="?q=${city}">`
 ```
 
 Définition des syntaxes : 
 - la syntaxe commence et termine toujours par ``.
 - on met une variable à l'intérieur du ${} qui va permettre d'afficher des chaînes de caractères issue des données externes
 - ça simplifie l'écriture de la syntaxe classique qui peut être de la concaténation : ("<a href=\"?q=\"" + city + ">")
-

@@ -60,6 +60,6 @@ Vous pouvez facilement ajouter une propriété à un objet :
 ```javascript
 >> const erik = {}
 >> erik.gender = 'male'
->> erik.status = 'occupé'
+>> erik.status = 'attend'
 >> erik
 ```

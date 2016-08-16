@@ -44,8 +44,10 @@ Pour que la console répète vos écrits vous pouvez utiliser les simples guille
 Vous pouvez tester des expressions avec les opérateurs suivants :
 - > : Supérieur - 5 > 2
 - < : Inférieur - 5 < 2
-- === : Équivalent - 5 === 3+2
-- !== : Différent - 5 !== 6
+- == : équivalent égal - '5' == 3 + 2
+- === : Strictement égal - 5 === 3 + 2
+- != : différent - 5 != 6
+- !== : Strictement différent - '5' !== 5
 - <= et >= : Inférieur ou égal et supérieur ou égal
 
 ```javascript

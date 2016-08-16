@@ -1,3 +1,9 @@
+---
+title: Historique des sessions
+description: Historique des sessions passées.
+image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/historique.jpg?raw=true
+---
+
 ### Prochaine session ?
 - [ ] agile : backlog - us
 - [ ] github workflow : PR, issues
@@ -13,6 +19,14 @@
 - [ ] frameworks : meteor, react, angular 2
 - [ ] web components : polymer
 - [ ] transpiler, modules : babel, browserify, webpack
+
+### #4 - 16/08/2016 - Remote - Puteau-Montpellier-Porto
+Présents :
+* Amanda
+* Bénédicte
+* Aurélie
+* Sabine
+* Stéphane (un peu)
 
 ### #3 - 10/08/2016 - Remote - Kerbors-Carnon
 Présents :

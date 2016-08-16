@@ -1,10 +1,8 @@
 ---
 title: Le templating
-description: >-
-  Le templating permet de faire une requête qui permet d'aller chercher des
+description: Le templating permet de faire une requête qui permet d'aller chercher des
   données dynamiquement en générant du html
-image_url: >-
-  https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/templating.jpg?raw=true
+image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/templating.jpg?raw=true
 published: true
 ---
 # Le templating

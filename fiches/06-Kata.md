@@ -5,7 +5,7 @@ image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches
 ---
 # Katas
 
-## Jouer avec un dictionnaire
+## 1- Jouer avec un dictionnaire
 - Objectif : Apprendre à stocker des données en utilisant un *dictionnaire*.
 - Niveau : 18kyu
 
@@ -32,7 +32,7 @@ const panda = {
 * *objet.propriété* - ex. *panda.food*
 
 
-## Créer un environnement pour coder en JavaScript
+## 2- Créer un environnement pour coder en JavaScript
 - Objectif : Installer un environnement de travail basique. Se sentir à l’aise pour coder ses premières lignes de JavaScript.
 - Niveau : 20kyu
 
@@ -64,7 +64,7 @@ Dans un dossier créer trois fichiers :
 * css : *background-color:*
 * *console.log*()
 
-## Parcourir un dictionnaire
+## 3- Parcourir un dictionnaire
 - Objectif : Apprendre à manipuler des données en utilisant un *dictionnaire*.
 - Niveau : 18kyu
 ```javascript
@@ -86,9 +86,51 @@ const towns = [
     <li>Nîmes (30)</li>
   </ul>
 ```
-
 * Notions révisées :
 * *.map()*
 * *document.write()*
 * *ul-li*
 * *objet.propriété* - ex: *city.town*
+
+## 4- Utiliser le *templating string*
+- Objectif : Apprendre à formater l'affichage des données.
+- Niveau : 20kyu
+
+À partir d'un jeu de données, comme par exemple
+```javascript
+const towns = {
+  marseille: {location: 'sud', number: 13},
+  cholet: {location: 'mordor', number: 49},
+  bordeaux: {location: 'l\'autre south', number: 33}
+}
+const currentUser = {lastname: 'Vega', firstname: 'alan', town: 'bordeaux'}
+```
+Afficher une phrase simple qui utilise quelques une des données proposées :
+```html
+  <h1>Le chanteur Alan Vega ne se produira pas à Bordeaux (33), devinez pourquoi ?</h1> 
+```
+* Notions révisées :
+* *templating* - `Yo, ${user.city} - you loose !`*
+* *document.write()*
+* *objet.propriété* - ex: *towns.marseille.location*
+
+## 5- Jouer à capturer des objets *Dom*
+- Objectif : Apprendre à modifier une page avec *JavaScript*.
+- Niveau : 18kyu
+Ouvrez la page Web [scopyleft](http:/scopyleft.fr) puis essayez de capturer quelques éléments en utilisant la console.  
+Par exemples :
+- <h1>
+- <p>
+- <ul>
+- <li>
+Stockez les résultats dans une variable, et modifier le contenu texte.  
+Essayez maintenant de modifier le lien **Accueil** pour qu'il n'affiche que du texte.
+Changez le mot *scopyleft* en *micro$oft®*
+
+* Notions révisées :
+* *document.querySelector* - ex. document.querySelector('header h1')
+* *innerHTML* - ex. document.querySelector('header h1')
+* Assignement - ex. const title = document.querySelector('header h1')
+* Console et l'inspecteur d'éléments
+
+

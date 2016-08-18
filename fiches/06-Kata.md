@@ -131,6 +131,6 @@ Changez le mot *scopyleft* en *micro$oft®*
 * *document.querySelector* - ex. document.querySelector('header h1')
 * *innerHTML* - ex. document.querySelector('header h1')
 * Assignement - ex. const title = document.querySelector('header h1')
-* Console et l'inspecteur d'éléments
+* Console et l'inspecteur d'éléments<
 
 

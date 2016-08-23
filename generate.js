@@ -1,3 +1,4 @@
+console.log('Pour ajouter quelques villes en exemple, generatePlaces()')
 const generatePlaces = () => {
   const places = [
     {id: 1, name: 'Fairview', city: 'Toulouse', location: {lt: '43.6117398', lg: '3.8767571'}},

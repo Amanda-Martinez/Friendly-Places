@@ -3,7 +3,7 @@ const Dom = {}
 Dom.displayPlaces = (places) => {
   const uls = ''
   places.map(place => {
-    let li =  document.createElement('li')
+    const li =  document.createElement('li')
     li.innerHTML = `
       <a href="https://www.google.com/maps/@${place.location.lt},${place.location.lg},17z">
         ${place.name} - ${place.city}
@@ -21,7 +21,7 @@ Dom.displayPlaces = (places) => {
 
 Dom.displayCities = (cities) => {
   cities.forEach(city => {
-    let li =  document.createElement('li')
+    const li = document.createElement('li')
     li.setAttribute('data-city', city)
     li.innerHTML = `<a href="?q=${city}">${city}</a>`
     document.querySelector('#cities').appendChild(li)

@@ -20,10 +20,10 @@ const panda = {
 }
 ```
 
-1- créer deux, trois animaux de plus
-2- afficher ce que mange chaque animal
-3- modifier la propriété *food* du panda en remplaçant *bamboo* par *vegetables*
-4- ajouter la propriété *duration* pour préciser l'espérance de vie de chaque animal.
+* 1- créer deux, trois animaux de plus
+* 2- afficher ce que mange chaque animal
+* 3- modifier la propriété *food* du panda en remplaçant *bamboo* par *vegetables*
+* 4- ajouter la propriété *duration* pour préciser l'espérance de vie de chaque animal.
 
 * Notions révisées :
 * *console.log*()

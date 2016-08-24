@@ -25,8 +25,22 @@ Il est possible de parcourir les projets d’autres utilisateurs de GitHub, et m
 
 ## Apprendre à parler Git et ligne de commandes
 
--Dépôt : un dépôt est un espace de stockage faisant vivre un projet. Cet espace de stockage se trouve dans un repertoire de son ordinateur, directement sur Github ou hébergé ailleurs en ligne.  À l’intérieur d’un dépôt sont conservés des fichiers de code type html, css, javascript, des fichiers type fiche mémo, texte ou markdown, ou encore des images.
+- "Lancer le client" : lorsque l'on emploie l'expression "lancer le client", celà n'est possible qu'en local sur sa machine.
 
--Commit : Après une création ou modification sur un document, on "Commit". "Commiter" signifie envoyer un “instantané”, une “photo” de son dépôt à ce stade, qui peut être modifié à tout moment.
+-dépôt : un dépôt est un espace de stockage faisant vivre un projet. Cet espace de stockage se trouve dans un repertoire de son ordinateur, directement sur Github ou hébergé ailleurs en ligne.  À l’intérieur d’un dépôt sont conservés des fichiers de code type html, css, javascript, des fichiers type fiche mémo, texte ou markdown, ou encore des images.
+
+-commit : Après une création ou modification sur un document, on "Commit". "Commiter" signifie envoyer un “instantané”, une “photo” de son dépôt à ce stade, qui peut être modifié à tout moment.
+
+-cd : taper simplement cd vous ramène à votre répertoire personnel. Taper cd - vous renvoie dans dans le dernier répertoire visité. En tapant cd ~marie permet de spécifier le répertoire de l'utilisateur.
+
+-mkdir : la commande mkdir permet permet de créer des répertoires ex : mkdir friendlyPlaces
+
+-pwd : la commande pwd permet de savoir dans quel répertoire de l'arborescence nous nous situons.
+ 
+ -mv : la commande mv sert à déplacer un dossier à un endroit différent.
+
+-ls : la commande ls liste les noms de fichiers présents dans le répertoire courant.
+
+-localhost
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

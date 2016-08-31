@@ -4,6 +4,12 @@ description: Documentation pour progresser.
 image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/documentation.jpg?raw=true
 ---
 
+## Book
+
+- [Exploring ES6](http://exploringjs.com/es6/)
+- [Programming JavaScript Application](http://www.ebooksbucket.com/uploads/itprogramming/javascript/Programming_JavaScript_Applications.pdf)
+- [You don't know JS](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
+
 ## Mozilla developpers sur les éléments de langage étudiés
 
 - [La console](https://developer.mozilla.org/fr/docs/Outils/Console_Web) - Permet d’interagir avec la page web en exécutant des expressions JavaScript dans le contexte de la page.

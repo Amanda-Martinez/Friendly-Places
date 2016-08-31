@@ -1,9 +1,9 @@
 ---
-title: Katas
+title: Exercices
 description: Quelques petits exercices pour se faire la main
 image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/kata.jpg?raw=true
 ---
-# Katas
+# Exercices
 
 ## 1- Jouer avec un dictionnaire
 - Objectif : Apprendre à stocker des données en utilisant un *dictionnaire*.
@@ -131,6 +131,46 @@ Changez le mot *scopyleft* en *micro$oft®*
 * *document.querySelector* - ex. document.querySelector('header h1')
 * *innerHTML* - ex. document.querySelector('header h1')
 * Assignement - ex. const title = document.querySelector('header h1')
-* Console et l'inspecteur d'éléments<
+* Console et l'inspecteur d'éléments
 
+## 6- Jouer avec la console
+- Objectif : Apprendre à manipuler les commandes de bases du terminal.
+- Niveau : 22kyu
+Ouvrez votre terminal et effectuez quelques actions basiques.  
 
+- déplacez-vous dans le répertoire /bin
+- listez le répertoire - c'est quoi tout ça ?
+- revenez au répertoire racine
+- promenez-vous jusqu'à trouver votre bureau (/Desktop)
+- créer un répertoire, et constatez le sur votre bureau (finder)
+- ajoutez deux, trois fichiers à l'intérieur
+- effacez un fichier, puis le répertoire en entier
+
+* Notions révisées :
+* *cd*
+* *ls*
+* *cp*
+* *mv*
+* *rm -R*
+* *mkdir*
+* *touch*
+* *options (-)*
+* *open .*
+* *..*
+
+## 7- À inventer
+- Objectif : Fabriquer une liste de liens pour obtenir les photos des villes sur Google ou DuckduckGo. Chercher par soi-même, trouver une solution sans connaitre les notions à l'avance.
+- Niveau : 15kyu
+À partir d'un chaine de carractères, fabriquer la liste de liens *Duckduckgo*.
+```javascript
+const towns = 'Bordeaux, Lyon, Marseille, Paris, Nantes, Nice'
+```
+* Notions révisées :
+* map()
+* split()
+* join()
+* <a href>
+* `blabla ${var}`
+* document.write()
+* console.table()
+* Jouer avec à déchiffrer une url : *https://duckduckgo.com/?q=valence&t=h_&iax=1&ia=images*

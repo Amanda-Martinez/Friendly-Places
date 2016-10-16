@@ -1,7 +1,6 @@
 const Dom = {}
 
-Dom.displayPlaces = (places) => {
-  const uls = ''
+Dom.displayPlaces = (places) =>
   places.map(place => {
     const li =  document.createElement('li')
     li.innerHTML = `
@@ -17,7 +16,6 @@ Dom.displayPlaces = (places) => {
         location.reload()
       })
   })
-}
 
 Dom.displayCities = (cities) => {
   cities.forEach(city => {

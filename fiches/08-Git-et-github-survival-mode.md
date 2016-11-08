@@ -43,4 +43,13 @@ Il est possible de parcourir les projets d’autres utilisateurs de GitHub, et m
 
 -localhost
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Marche à suivre pour MAJ du repo distant à partir de son repo en local :
+```bash
+$ git pull // (modifs en local)
+$ git add .
+$ git commit -m « description de la MAJ » 
+$ git push
+```
+```bas
+git checkout _nom d’une autre branche_ : change de branche
+```

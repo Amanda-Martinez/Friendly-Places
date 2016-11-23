@@ -41,6 +41,8 @@ Si la fenêtre rétrécit, les boîtes gardent leur ordre et se rangent les unes
 	}
 ```
 
+Note: en natif, no-wrap est _actif_
+
 ### flex-direction
 
 On peut définir la direction des boîtes
@@ -54,6 +56,8 @@ Exemple:
 		flex-direction: column
 	}
 ```
+
+Note: en natif, row est _actif_
 
 ### justify-content
 
@@ -73,6 +77,8 @@ Exemple:
 		justify-content: space-between;
 	}
 ```
+
+Note: en natif, flex-start est _actif_
 
 
 

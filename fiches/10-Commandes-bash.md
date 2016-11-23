@@ -29,3 +29,11 @@ image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches
 * **./wifi2proxy**: permet de crypter les données que l'on envoie quand on utilise un wifi public
 * **ssh autre machine**: se connecter à un autre serveur
 * **http server**: lance un autre serveur (comme python)
+
+## Commandes git
+
+* **git status**: pour voir les changements pris en compte
+* **git add .**: pour ajouter toutes les modifications
+* **git commit -m"le nom de ce qu'on commit"**: pour créer un commit
+* **git push**: pour le pousser et l'installer
+* **git checkout master** (ou autre nom de la branche qu'on souhaite): pour changer de branche

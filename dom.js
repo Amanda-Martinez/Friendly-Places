@@ -23,13 +23,13 @@ Dom.displayCities = (cities) => {
   cities.forEach(city => {
     const li = document.createElement('li')
     li.setAttribute('data-city', city)
-    li.innerHTML = `<a href="?q=${city}">${city}</a>`
+    li.innerHTML = `<a href="/ville/${city}">${city}</a>`
     document.querySelector('#cities').appendChild(li)
   })
 }
 
 Dom.selectCity = (cities, selectCity) => {
-  const city = (! cities.has(selectCity)) ? "All" : selectCity
-  const li = document.querySelector(`[data-city="${city}"]`)
+  console.log(cities)
+  const li = document.querySelector(`[data-city="${selectCity}"]`)
   li.className = `${li.className} selected`.trim()
 }

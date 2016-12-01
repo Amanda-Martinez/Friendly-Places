@@ -5,6 +5,7 @@
 		<meta descr="Découvrez la liste des endroits où travailler.">
 		<link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
 		<script src="https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
+		<script src="https://cdn.rawgit.com/visionmedia/page.js/master/page.js"></script>
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<script type="text/javascript" src="generate.js"></script>
 		<script type="text/javascript" src="world.js"></script>
@@ -13,15 +14,14 @@
 		<script type="text/javascript" src="init.js"></script>
 	</head>
 	<body>
-		<header><h1>Liste des Friendly Places</h1></header>
-		<div id="map"></div>
-		<ul id="cities">
-			<li data-city="All"><a href="index.html">Tous</a></li>
-			<!-- dynamical data -->
-		</ul>
-		<ul id="places">
-			<!-- dynamical data -->
-		</ul>
+		<header>
+			<h1>Liste des Friendly Places</h1>
+			<ul>
+				<li><a href="/">présentation</a></li>
+				<li><a href="/ville/lyon">ville</a></li>
+			</ul>
+		</header>
+		<div id="container"></div>
 		<footer>
 			<p>Licence</p>
 		</footer>

@@ -1,7 +1,4 @@
 class World {
-	find(name) {
-		return this.collection().filter(place => place.name === name)
-	}
 	findByCity(city) {
 		if (! city) {
 			return this.collection()

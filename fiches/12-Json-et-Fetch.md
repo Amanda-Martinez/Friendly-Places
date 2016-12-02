@@ -1,6 +1,6 @@
 ---
 title: Json et Fetch
-description: comment fonctionnent le Json et ketch
+description: comment fonctionnent le Json et Fetch
 image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches/img/.jpg?raw=true
 ---
 

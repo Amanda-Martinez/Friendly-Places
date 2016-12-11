@@ -26,7 +26,7 @@ image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches
 * **rm**: effacer un élément
 * **rm-R**:supprimer un dossier
 * **rm-RF**: forcer
-* **./wifi2proxy**: permet de crypter les données que l'on envoie quand on utilise un wifi public
+* **./wifi2proxy**: permet de chiffrer les données que l'on envoie quand on utilise un wifi public
 * **ssh autre machine**: se connecter à un autre serveur
 * **http server**: lance un autre serveur (comme python)
 

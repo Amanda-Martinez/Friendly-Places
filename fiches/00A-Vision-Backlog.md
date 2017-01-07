@@ -43,11 +43,11 @@ Qualité des consommations
 
 ## Questions pour la préparation de la vision 
 
-A qui on s'adresse ? digital nomades, personnes recherchant des lieux insolites, entreprises, groupes ou individuels, 
-Quelles valeurs apporte le site ? recenser un max de lieu, que des lieux qualitatifs, amener du contenu, une UX hyper simple ?
-Quel est le besoin de chacun/e ce qui nous motive ? Est ce qu'on veut apporter de l'intéraction locale ou référencer des lieux ?
-Est ce qu'on veut créer une communauté à travers ce site ou est ce qu'on veut toucher un maximum de personnes ?
-Quel type de grandeur (nombre d'utilisateurs) nous satisferait ?
-Est ce qu'on veut toucher une communauté précise ou plus de monde ?
-Est ce qu'on veut améliorer quelque chose d'existant ? Améliorer l'approche de devfriendlyplaces ? Ou apporter une valeur différente ?
-Est ce qu'on référence des lieux par rapport à nos besoins personnels ?
+* A qui on s'adresse ? digital nomades, personnes recherchant des lieux insolites, entreprises, groupes ou individuels 
+* Quelles valeurs apporte le site ? recenser un max de lieu, que des lieux qualitatifs, amener du contenu, une UX hyper simple ?
+* Quel est le besoin de chacun/e ce qui nous motive ? Est ce qu'on veut apporter de l'intéraction locale ou référencer des lieux ?
+* Est ce qu'on veut créer une communauté à travers ce site ou est ce qu'on veut toucher un maximum de personnes ?
+* Quel type de grandeur (nombre d'utilisateurs) nous satisferait ?
+* Est ce qu'on veut toucher une communauté précise ou plus de monde ?
+* Est ce qu'on veut améliorer quelque chose d'existant ? Améliorer l'approche de devfriendlyplaces ? Ou apporter une valeur différente ?
+* Est ce qu'on référence des lieux par rapport à nos besoins personnels ?

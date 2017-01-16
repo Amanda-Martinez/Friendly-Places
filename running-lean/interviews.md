@@ -36,3 +36,5 @@ Remercier la personne et refermer les 15min d’échange en synthétisant en une
 Demander à la personne si elle connait  une personne qui accepterait d’être interviewée » +
 lui communiquer  l’intention de refaire des interview orientés solutions en validant avec celle si ça l’interesserait que l’on revienne vers elle à ce moment là.
 
+![](https://raw.githubusercontent.com/Amanda-Martinez/Friendly-Places/master/running-lean/media/user-itw.jpg)
+

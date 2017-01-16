@@ -4,8 +4,6 @@ title: Méthodologie du projet - Les interviews problème
 description : 
 ---
 
-> https://public.etherpad-mozilla.org/p/pleinphare-itw
-
 # Contexte 
 - Valider les problèmes qu'on a posé au canevas auprès des jeunes et vérifier que ces mêmes jeunes seraient effectivement intéressés par ce type d'ateliers.
 

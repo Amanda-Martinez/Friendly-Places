@@ -5,7 +5,7 @@ description :
 ---
 
 # Contexte 
-- Valider les problèmes qu'on a posé au canevas auprès des jeunes et vérifier que ces mêmes jeunes seraient effectivement intéressés par ce type d'ateliers.
+- Valider les problèmes qu'on a posé au canevas auprès des jeunes et vérifier qu'on est sur les bonnes personnes (customers segment/early adopters)
 
 # Infos pratiques
 - Interview les 3 types d"'utilisateurs types" 

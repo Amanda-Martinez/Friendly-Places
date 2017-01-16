@@ -30,7 +30,7 @@ NB : réponse courtes type : oui / non / 50 / vétérinaire
 NB : piocher au pif l'ordre des problème (jamais le même ordre de présentation des problème)  + ne pas la laisser développer ici
 Voici 3 problèmes qu'on a identifié et que tu as, dis-moi si tu les as et classe les par pénibilité ?
 
- # Coeur de l'interview (15min)
+# Coeur de l'interview (15min)
 NB : On ne pose aucune question + si jamais le mec en face ne réponds pas, relancer en disant par exemple "tu m'as dit ça tout à l'heure, est-ce que tu peux m'en dire un peu plus ?"
 Est-ce que tu pourrais me parler de toi vis-à-vis de ce type de problèmes là ?
 

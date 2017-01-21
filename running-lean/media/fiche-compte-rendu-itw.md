@@ -22,7 +22,7 @@
 
 Est-ce que ça t’arrive de perdre du temps à trouver un lieu correspondant à tes critères ? 
 
-**Priorité :** 0/3 | **Pénibilité :** 0/3 
+**Priorité :** 0/3 | **Pénibilité :** 0/10 
 ------------ | -------------
 **Commentaires :**
 > .  
@@ -32,7 +32,7 @@ Est-ce que ça t’arrive de perdre du temps à trouver un lieu correspondant à
 
 Est-ce que tu perds du temps à trouver un lieu où travailler quand tu arrives dans une nouvelle ville ? 
 
-**Priorité :** 0/3 | **Pénibilité :** 0/3 
+**Priorité :** 0/3 | **Pénibilité :** 0/10 
 ------------ | -------------
 **Commentaires :**
 > .  
@@ -42,7 +42,7 @@ Est-ce que tu perds du temps à trouver un lieu où travailler quand tu arrives 
 
 Est-ce que tu as du mal à être efficace en travaillant seul chez toi ? 
 
-**Priorité :** 0/3 | **Pénibilité :** 0/3 
+**Priorité :** 0/3 | **Pénibilité :** 0/10 
 ------------ | -------------
 **Commentaires :**
 > .  

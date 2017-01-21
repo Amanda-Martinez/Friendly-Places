@@ -21,7 +21,7 @@ Si oui, as-tu déjà contribué à 1 fiche sur le site devfriendlyplaces ?
 Est-ce que ça t’arrive de perdre du temps à trouver un lieu correspondant à tes critères ? 
 
 **Priorité :** 0/3 | **Pénibilité :** 0/10   
------NON------- | -------------  
+------------ | -------------  
 **Commentaires :**
 > .  ne perd pas de temps car en profite pour marcher et voir des choses
 > .  
@@ -31,8 +31,8 @@ Est-ce que ça t’arrive de perdre du temps à trouver un lieu correspondant à
 Est-ce que tu perds du temps à trouver un lieu où travailler quand tu arrives dans une nouvelle ville ? 
 
 **Priorité :** 0/3 | **Pénibilité :** 0/10   
------NON------- | -------------  
-**Commentaires :**  
+------------ | -------------  
+**Commentaires :** 
 > .  même chose, ne perd pas de temps
 > .  trouve en flanant, prend du temps mais procure du plaisir donc ce n'est pas un problème
 
@@ -41,15 +41,17 @@ Est-ce que tu perds du temps à trouver un lieu où travailler quand tu arrives 
 Est-ce que tu as du mal à être efficace en travaillant seul chez toi ? 
 
 **Priorité :** 3/3 | **Pénibilité :** 2/10   
-------OUI------ | -------------  
+------------ | -------------  
 **Commentaires :**
+> .  
+> .  
 > .  
 > .  
 
 
 ### Notes
 
-> .  
+> .  Ne rencontre pas les problèmes posés, je ne poursuis pas l'interview
 > .  
 > .  
 > .  

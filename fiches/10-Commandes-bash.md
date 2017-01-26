@@ -37,3 +37,6 @@ image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches
 * **git commit -m"le nom de ce qu'on commit"**: pour créer un commit
 * **git push**: pour le pousser et l'installer
 * **git checkout master** (ou autre nom de la branche qu'on souhaite): pour changer de branche
+* **git checkout -**: permet de retourner à la branche dans laquelle j'étais précédemment
+* **git checkout (file)** : permet de retrouver dans l'état de base, un fichier modifié avant qu'il ne soit commité
+

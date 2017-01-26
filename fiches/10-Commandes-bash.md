@@ -39,5 +39,6 @@ image_url: https://github.com/Amanda-Martinez/Friendly-Places/blob/master/fiches
 * **git checkout master** (ou autre nom de la branche qu'on souhaite): pour changer de branche
 * **git checkout -**: permet de retourner à la branche dans laquelle j'étais précédemment
 * **git checkout (file)** : permet de retrouver dans l'état de base, un fichier modifié avant qu'il ne soit commité
-* **git branch -m <oldname> <newname>** : renommer une branche
+* **git branch -m (oldname) (newname)** : renommer une branche
+* **git checkout.** : permet de ne pas enregistrer toutes les modifications effectuées sur la branche en cours
 

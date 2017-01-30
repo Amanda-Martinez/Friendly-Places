@@ -1,7 +1,6 @@
-**Date :** 20/01/17
+**Date : 20/01/17**
 
-### Informations de contact
-**Stéphane ** BAGNIER
+**Stéphane B.**
 
 
 ### Data

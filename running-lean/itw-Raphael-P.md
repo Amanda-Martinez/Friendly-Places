@@ -1,8 +1,6 @@
-**Date :** 20/01/17
+**Date : 20/01/17**
 
-### Informations de contact
-**prénom Raphaël** NOM PIERQUIN 
-**Email :**
+**Raphaël P.**
 
 ### Data
 
@@ -39,7 +37,7 @@ Est-ce que tu perds du temps à trouver un lieu où travailler quand tu arrives 
 > .  
 > .  
 
-### Probléme
+### Problème
 
 Est-ce que tu as du mal à être efficace en travaillant seul chez toi ? 
 

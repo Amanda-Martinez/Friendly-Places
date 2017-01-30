@@ -1,8 +1,6 @@
-**Date :** 20/01/17
+**Date : 20/01/17
 
-### Informations de contact
-**Fabien ** TREGAN  
-**Email :** @FTregan
+**Fabien T.
 
 ### Data
 

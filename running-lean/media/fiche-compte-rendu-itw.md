@@ -8,15 +8,13 @@
 
 ### Data
 
-* Dans quel métier tu bosses ?
-* Est-ce que tu travailles en remote ?
-* Est-ce que tu es amené à travailler dans d’autres villes et à quelle fréquence ?   
-(Si oui, combien de villes ? En France, à l’étranger ?)
-* Est-ce qu’il t’arrive de chercher des lieux pour travailler en dehors de chez toi ?
-* Est-ce que tu le fais fréquemment ? 
-* Combien de temps tu passes pour rechercher ce lieu et comment tu le trouves ? 
-* Est-ce que tu connais le site devfriendlyplaces ?   
-Si oui, as-tu déjà contribué à 1 fiche sur le site devfriendlyplaces ?
+* Dans quel métier tu bosses ? 
+* Est-ce que tu travailles en remote ? 
+* Est-ce qu’il t’arrive de chercher des lieux pour travailler en dehors de chez toi ? Est-ce que tu le fais fréquemment ? * Combien de temps tu passes pour rechercher ce lieu et comment tu le trouves ? 
+* Dans quel type de lieu vas tu pour travailler en remote ?
+* Est ce que tu as besoin de wifi ?
+* Est-ce que tu es amené à travailler dans d’autres villes et à quelle fréquence ? (Si oui, combien de villes ? En France, à l’étranger ?)
+
 
 ### Problème
 

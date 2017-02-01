@@ -20,7 +20,7 @@ Si oui, as-tu déjà contribué à 1 fiche sur le site devfriendlyplaces ?
 
 ### Problème
 
-Est-ce que ça t’arrive de perdre du temps à trouver un lieu correspondant à tes critères ? 
+Je galère à trouver un lieu correspondant à mes critères du moment
 
 **Priorité :** 0/3 | **Pénibilité :** 0/10   
 ------------ | -------------  
@@ -30,7 +30,7 @@ Est-ce que ça t’arrive de perdre du temps à trouver un lieu correspondant à
 
 ### Problème
 
-Est-ce que tu perds du temps à trouver un lieu où travailler quand tu arrives dans une nouvelle ville ? 
+J'ai l'impression d'être gênant lorsque je bosse plusieurs heures dans un même lieu
 
 **Priorité :** 0/3 | **Pénibilité :** 0/10   
 ------------ | -------------  
@@ -40,7 +40,7 @@ Est-ce que tu perds du temps à trouver un lieu où travailler quand tu arrives 
 
 ### Probléme
 
-Est-ce que tu as du mal à être efficace en travaillant seul chez toi ? 
+Je galère à trouver un lieu où je peux travailler et échanger avec des gens
 
 **Priorité :** 0/3 | **Pénibilité :** 0/10   
 ------------ | -------------  
